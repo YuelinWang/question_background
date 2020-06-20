@@ -1,0 +1,59 @@
+{
+    "comment":"thumb为头像端口，如果想添加头像用thumb+链接即可",
+    "list": [{
+            "id": 1,
+            "name": "张三",
+            "work": "校长",
+            "college": "————",
+            "specialty": "————",
+            "schoolID":"000001",
+            "date": "2020-06-05"
+        },
+        {
+            "id": 2,
+            "name": "李四",
+            "work": "老师",
+            "college": "计算机学院",
+            "specialty": "————",
+            "schoolID":"000011",
+            "date": "2020-06-05"
+        },
+        {
+            "id": 3,
+            "name": "王五",
+            "work": "老师",
+            "college": "计算机学院",
+            "specialty": "————",
+            "schoolID":"000012",
+            "date": "2020-06-05"
+        },
+        {
+            "id": 4,
+            "name": "赵六",
+            "work": "学生",
+            "college": "计算机学院",
+            "specialty": "计算机科学与技术",
+            "schoolID":"173401010101",
+            "date": "2020-06-05"
+        },
+        {
+            "id": 5,
+            "name": "孙七",
+            "work": "学生",
+            "college": "计算机学院",
+            "specialty": "网络工程",
+            "schoolID":"173401040101",
+            "date": "2020-06-05"
+        },
+        {
+            "id": 6,
+            "name": "周八",
+            "work": "学生",
+            "college": "计算机学院",
+            "specialty": "物联网工程",
+            "schoolID":"173401060101",
+            "date": "2020-06-05"
+        }
+    ],
+    "pageTotal": 6
+}
