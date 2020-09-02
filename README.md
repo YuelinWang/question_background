@@ -37,6 +37,6 @@ npm run serve
 npm run build
 ```
 
-
+## 项目于2020年09月02日终止
 
 
